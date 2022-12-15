@@ -1,0 +1,15 @@
+C:\Users\rayma\csit340-oop-Raymart-Leyson\DIP\DIP\bin\Debug\DIP.exe.config
+C:\Users\rayma\csit340-oop-Raymart-Leyson\DIP\DIP\bin\Debug\DIP.exe
+C:\Users\rayma\csit340-oop-Raymart-Leyson\DIP\DIP\bin\Debug\DIP.pdb
+C:\Users\rayma\csit340-oop-Raymart-Leyson\DIP\DIP\obj\Debug\DIP.csproj.AssemblyReference.cache
+C:\Users\rayma\csit340-oop-Raymart-Leyson\DIP\DIP\obj\Debug\DIP.csproj.SuggestedBindingRedirects.cache
+C:\Users\rayma\csit340-oop-Raymart-Leyson\DIP\DIP\obj\Debug\DIP.Form1.resources
+C:\Users\rayma\csit340-oop-Raymart-Leyson\DIP\DIP\obj\Debug\DIP.Properties.Resources.resources
+C:\Users\rayma\csit340-oop-Raymart-Leyson\DIP\DIP\obj\Debug\DIP.csproj.GenerateResource.cache
+C:\Users\rayma\csit340-oop-Raymart-Leyson\DIP\DIP\obj\Debug\DIP.csproj.CoreCompileInputs.cache
+C:\Users\rayma\csit340-oop-Raymart-Leyson\DIP\DIP\obj\Debug\DIP.exe
+C:\Users\rayma\csit340-oop-Raymart-Leyson\DIP\DIP\obj\Debug\DIP.pdb
+C:\Users\rayma\csit340-oop-Raymart-Leyson\DIP\DIP\bin\Debug\DIP.exe.manifest
+C:\Users\rayma\csit340-oop-Raymart-Leyson\DIP\DIP\bin\Debug\DIP.application
+C:\Users\rayma\csit340-oop-Raymart-Leyson\DIP\DIP\obj\Debug\DIP.exe.manifest
+C:\Users\rayma\csit340-oop-Raymart-Leyson\DIP\DIP\obj\Debug\DIP.application
